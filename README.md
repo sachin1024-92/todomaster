@@ -1,10 +1,10 @@
 # TodoMaster 📝
 
+> **Status: planned.** This repository currently holds the project plan only. No application code has been published here yet, so the features below describe what is intended, not what exists.
+
 **Advanced Flutter productivity app** with smart shortcuts, powerful widgets, focus modes, and AI assistance.
 
 Built for people who want more than a basic todo list — real daily execution power.
-
-![TodoMaster Preview](https://via.placeholder.com/800x450?text=Add+your+app+screenshots+here)
 
 ## Why TodoMaster?
 
@@ -15,16 +15,16 @@ Most todo apps are too simple or too bloated. TodoMaster strikes the perfect bal
 - Smart recurring tasks & priority intelligence
 - Designed for students, professionals, and side hustlers
 
-## Key Features
+## Planned features
 
-- ✅ Advanced shortcut system (custom actions & quick add)
-- ✅ Home screen widgets (highly customizable)
-- ✅ Focus / Pomodoro modes with AI motivation
-- ✅ Smart recurring tasks & smart reminders
-- ✅ Priority matrix + AI suggestions
-- ✅ Tags, filters, search & natural language input
-- ✅ Dark mode + beautiful minimal design
-- ✅ Offline-first with sync
+- [ ] Advanced shortcut system (custom actions & quick add)
+- [ ] Home screen widgets (highly customizable)
+- [ ] Focus / Pomodoro modes with AI motivation
+- [ ] Smart recurring tasks & smart reminders
+- [ ] Priority matrix + AI suggestions
+- [ ] Tags, filters, search & natural language input
+- [ ] Dark mode + beautiful minimal design
+- [ ] Offline-first with sync
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ Most todo apps are too simple or too bloated. TodoMaster strikes the perfect bal
 - Local notifications & home widgets
 - Clean Architecture
 
-## Getting Started
+## Getting Started (once code is published)
 
 ```bash
 git clone https://github.com/sachin1024-92/todomaster.git
@@ -62,9 +62,6 @@ flutter run
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/sachin1024-92)
 
-Alternative support:
-- [Buy Me a Coffee](https://www.buymeacoffee.com/)
-- [Ko-fi](https://ko-fi.com/)
 
 ## License
 MIT
